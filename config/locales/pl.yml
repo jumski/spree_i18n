@@ -78,11 +78,11 @@ pl:
         name: Nazwa
       spree/product:
         available_on: "Available On"
-        cost_price: "Cost Price"
+        cost_price: "Koszt zakupu/wytworzenia"
         description: Opis
         master_price: "Master Price"
         name: Nazwa
-        on_hand: "On Hand"
+        on_hand: "Na stanie"
         shipping_category: "Shipping Category"
         tax_category: "Tax Category"
       spree/product_group:
@@ -113,7 +113,7 @@ pl:
         amount: Rate
       spree/taxon:
         name: Nazwa
-        permalink: Permalink
+        permalink: Niezmienny odnośnik
         position: Position
       spree/taxonomy:
         name: Nazwa
@@ -122,8 +122,8 @@ pl:
         password: "Hasło"
         password_confirmation: "Potwierdzenie Hasła"
       spree/variant:
-        cost_price: "Cost Price"
-        depth: Depth
+        cost_price: "Koszt zakupu/wytworzenia"
+        depth: Głębokość
         height: Wysokość
         price: Price
         sku: SKU
@@ -203,11 +203,11 @@ pl:
         one: "Tax Rate"
         other: "Tax Rates"
       spree/taxon:
-        one: Taxon
-        other: Taxons
+        one: Takson
+        other: Taksony
       spree/taxonomy:
-        one: Taxonomy
-        other: Taxonomies
+        one: Taksonomia
+        other: Taksonomie
       spree/user:
         one: Użytkownik
         other: Użytkownicy
@@ -335,7 +335,7 @@ pl:
   continue: Kontynuuj
   continue_shopping: "Kontynuuj zakupy"
   copy_all_mails_to: Copy All Mails To
-  cost_price: "Cost Price"
+  cost_price: "Koszt zakupu/wytworzenia"
   count_of_reduced_by: "count of '%{name}' reduced by %{count}"
   country: Kraj
   country_based: "Country Based"
@@ -369,7 +369,7 @@ pl:
   default_seo_title: Default Seo Title
   delete: Usuń
   delivery: Dostawa
-  depth: Depth
+  depth: Głębokość
   description: Opis
   destroy: Usuń
   didnt_receive_confirmation_instructions: "Didn't receive confirmation instructions?"
@@ -384,7 +384,7 @@ pl:
   editing_option_type: "Editing Option Type"
   editing_option_types: "Edycja typów opcji"
   editing_payment_method: Editing Payment Method
-  editing_product: "Editing Product"
+  editing_product: "Edycja produktu"
   editing_product_group: "Editing Product Group"
   editing_promotion: Editing Promotion
   editing_property: "Editing Property"
@@ -605,7 +605,7 @@ pl:
     product_not_deleted: "Product could not be deleted"
     variant_deleted: "Variant has been deleted"
     variant_not_deleted: "Variant could not be deleted"
-  on_hand: "On Hand"
+  on_hand: "Na stanie"
   one_default_category_with_default_tax_rate: "You should configure exactly one default category with your countries default tax rate"
   operation: Operacja
   option_type: "Option Type"
@@ -647,9 +647,12 @@ pl:
   order_total: "Zamówienie łącznie"
   order_total_message: "The total amount charged to your card will be"
   order_updated: "Zamówienie uaktualnione"
+  orders: Zamówienia
   other_payment_options: Other Payment Options
   out_of_stock: "Out of Stock"
   over_paid: "Over Paid"
+  overview: Przegląd
+  overview_welcome: "Welcome to your store overview, currently we do not have enough data to display the Overiew Dashboard.<br/><br/> The dashboard will display automatically once the system has sufficent orders to allow generation of the statistics."
   page_only_viewable_when_logged_in: You attempted to visit a page which can only be viewed when you are logged in
   page_only_viewable_when_logged_out: You attempted to visit a page which can only be viewed when you are logged out
   paid: Paid
@@ -683,12 +686,12 @@ pl:
   payment_updated: Payment Updated
   payments: Płatności
   pending_payments: Pending Payments
-  permalink: Permalink
+  permalink: Niezmienny odnośnik
   phone: Telefon
   place_order: Place Order
   please_create_user: "Please create a user account"
   powered_by: "Powered by"
-  presentation: Presentacja
+  presentation: Prezentacja
   preview: Preview
   previous: Poprzednie
   price: Cena
@@ -1059,7 +1062,7 @@ pl:
   thank_you_for_your_order: "Thank you for your business.  Please print out a copy of this confirmation page for your records."
   there_were_problems_with_the_following_fields: "Błędy dotyczą następujących pól"
   this_file_language: Polski (PL)
-  thumbnail: "Thumbnail"
+  thumbnail: "Miniaturka"
   to_add_variants_you_must_first_define: "To add variants, you must first define"
   to_state: "To State"
   total: Łącznie
