@@ -1051,7 +1051,7 @@ pl:
   taxonomy_edit: "Edit taxonomy"
   taxonomy_tree_error: "The requested change has not been accepted and the tree has been returned to its previous state, please try again."
   taxonomy_tree_instruction: "* Right click a child in the tree to access the menu for adding, deleting or sorting a child."
-  taxons: Taxons
+  taxons: Taksony
   test: "Test"
   test_mailer:
     test_email:
@@ -1063,7 +1063,7 @@ pl:
   there_were_problems_with_the_following_fields: "Błędy dotyczą następujących pól"
   this_file_language: Polski (PL)
   thumbnail: "Miniaturka"
-  to_add_variants_you_must_first_define: "To add variants, you must first define"
+  to_add_variants_you_must_first_define: "Aby dodawać warianty, musisz najpierw zdefiniować"
   to_state: "To State"
   total: Łącznie
   tracking: Tracking
