@@ -11,7 +11,7 @@ pl:
     create: "Utwórz"
     destroy: Usuń
     list: Lista
-    listing: Aukcja
+    listing: Lista
     new: Nowa
     update: Aktualizuj
   active: "Aktywne"
