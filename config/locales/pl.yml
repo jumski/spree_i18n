@@ -248,7 +248,7 @@ pl:
   address_information: "Address Information"
   adjustment: Dostosowanie
   adjustment_total: Adjustment Total
-  adjustments: Adjustments
+  adjustments: Korekty
   admin:
     mail_methods:
       send_testmail: 'Wyślij list testowy'
@@ -302,7 +302,7 @@ pl:
   back_to_store: "Powrót do sklepu"
   backordered: Backordered
   backordering_is_allowed: "Backordering %{not} allowed"
-  balance_due: "Balance Due"
+  balance_due: "Saldo"
   bill_address: "Adres Płatniczy"
   billing: Billing
   billing_address: "Adres Płatniczy"
@@ -315,7 +315,7 @@ pl:
   canceled: Anulowane
   cannot_create_returns: Nie można utworzyć zwrotu gdyż do zamówienie nie zostało wysłane.
   cannot_perform_operation: "Nie można wykonać żądanej operacji"
-  capture: Przechwyć
+  capture: Zapłacono!
   card_code: "Kod Karty"
   card_details: "Dane karty"
   card_number: "Numer Karty"
@@ -784,13 +784,13 @@ pl:
         sentence: in <em>%s</em> and all their descendants
       master_price_gte:
         args:
-          amount: Amount
+          amount: Ilość
         description: ""
         name: "Master price greater or equal to"
         sentence: price greater or equal to <em>%.2f</em>
       master_price_lte:
         args:
-          amount: Amount
+          amount: Ilość
         description: ""
         name: "Master price lesser or equal to"
         sentence: price less or equal to <em>%.2f</em>
@@ -958,13 +958,13 @@ pl:
   settings: Ustawienia
   ship: wyślij
   ship_address: "Adres Dostawy"
-  shipment: Shipment
+  shipment: Wysyłka
   shipment_details: Szczegóły wysyłki
   shipment_inc_vat: "Shipment including VAT"
   shipment_mailer:
     shipped_email:
-      subject: "Shipment Notification"
-  shipment_number: "Shipment #"
+      subject: "Informacja o wysyłce"
+  shipment_number: "Wysyłka #"
   shipment_state: Stan Wysyłki
   shipment_states:
     backorder: backorder
@@ -972,9 +972,9 @@ pl:
     pending: oczekuje
     ready: gotowe
     shipped: wysłane
-  shipment_updated: Shipment Updated
-  shipments: "Shipments"
-  shipped: Shipped
+  shipment_updated: Wysyłka zaktualizowana
+  shipments: "Wysyłki"
+  shipped: Dostarczone
   shipping: Dostawa
   shipping_address: "Adres Dostawy"
   shipping_categories: "Kategorie Wysyłki"
@@ -1121,7 +1121,7 @@ pl:
   vat: "VAT"
   version: Wersja
   view_shipping_options: "View shipping options"
-  void: Nieważny
+  void: Unieważnij
   website: "Strona WWW"
   weight: Waga
   welcome_to_sample_store: "Witamy w przykładowycm sklepie"
