@@ -645,7 +645,7 @@ pl:
     # keys correspond to Checkout state names:
     address: adres
     adjustments: adjustments
-    awaiting_return: awaiting return
+    awaiting_return: oczekiwanie na zwrot
     canceled: anulowane
     cart: koszyk
     complete: zrealizowane
