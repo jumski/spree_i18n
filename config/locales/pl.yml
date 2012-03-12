@@ -712,7 +712,7 @@ pl:
   proceed_as_guest: "Nie, dziękuję, kontynuuj jako Gość"
   process: Przetwarzaj
   product: Produkt
-  product_details: "Product Details"
+  product_details: "Szczegóły Produktu"
   product_group: Grupa Produktów
   product_group_invalid: Product Group has invalid scopes
   product_groups: Grupy Produktów
