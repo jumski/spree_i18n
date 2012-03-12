@@ -68,10 +68,11 @@ pl:
           state: "Billing address state"
           zipcode: "Billing address zipcode"
         checkout_complete: "Checkout Complete"
-        completed_at: "Skompletowane O"
+        completed_at: "Data zamówienia"
         ip_address: "Adres IP"
         item_total: "Item Total"
         number: Numer
+        email: Email klienta
         ship_address:
           address1: "Shipping address street"
           city: "Shipping address city"
@@ -82,6 +83,8 @@ pl:
           zipcode: "Shipping address zipcode"
         special_instructions: "Specjalne Instrukcje"
         state: Stan
+        payment_state: Stan płatności
+        shipment_state: Stan dostawy
         total: Łącznie
       spree/payment_method:
         name: Nazwa
