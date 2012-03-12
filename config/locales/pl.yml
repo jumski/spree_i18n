@@ -332,7 +332,7 @@ pl:
   clone: Klonuj
   code: Kod
   combine: Połącz
-  complete: kompletne
+  complete: Gotowe
   complete_list: "Complete List"
   configuration: Konfiguracja
   configuration_options: "Opcje konfiguracji"
@@ -479,7 +479,7 @@ pl:
   google_analytics_new: "Nowe Konto Google Analytics"
   google_analytics_setting_description: "Zarządzaj ID Google Analytics"
   guest_checkout: Guest Checkout
-  guest_user_account: Checkout as a Guest
+  guest_user_account: Kupuj bez rejestracji
   has_no_shipped_units: has no shipped units
   height: Wysokość
   hello_user: "Witaj użytkowniku"
@@ -645,7 +645,7 @@ pl:
     awaiting_return: awaiting return
     canceled: anulowane
     cart: koszyk
-    complete: kompletne
+    complete: zrealizowane
     confirm: potwierdzenie
     delivery: dostawa
     payment: płatność
@@ -676,7 +676,7 @@ pl:
   payment: Płatność
   payment_actions: "Akcje"
   payment_gateway: "Metoda Płatności"
-  payment_information: "Payment Information"
+  payment_information: "Informacje o płatności"
   payment_method: Metoda Płatności
   payment_methods: Metody Płatności
   payment_methods_setting_description: "Konfiguruj metody, którymi klienci mogą płacić"
@@ -685,7 +685,7 @@ pl:
   payment_states:
     balance_due: do opłacenia
     checkout: checkout
-    completed: kompletne
+    completed: zrealizowana
     credit_owed: credit owed
     failed: failed
     paid: zapłacone
@@ -944,11 +944,11 @@ pl:
   secure_creditcard: Secure Creditcard
   select: Wybierz
   select_from_prototype: "Wybierz z prototypu"
-  select_preferred_shipping_option: "Select preferred shipping option"
+  select_preferred_shipping_option: "Wybierz preferowany sposób dostawy"
   send_copy_of_all_mails_to: Send Copy of All Mails To
   send_copy_of_orders_mails_to: Send Copy of Order Mails To
   send_mails_as: Send Mails As
-  send_me_reset_password_instructions: "Send me reset password instructions"
+  send_me_reset_password_instructions: "Wyślij mi instrukcje odzyskiwania hasła"
   send_order_mails_as: Send Order Mails As
   server: Serwer
   server_error: "Serwer zwrócił błąd"
@@ -956,7 +956,7 @@ pl:
   ship: wyślij
   ship_address: "Adres Dostawy"
   shipment: Shipment
-  shipment_details: Shipment Details
+  shipment_details: Szczegóły wysyłki
   shipment_inc_vat: "Shipment including VAT"
   shipment_mailer:
     shipped_email:
